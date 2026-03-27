@@ -108,6 +108,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 ## Contact
 
 [Georges Byona](https://linktr.ee/glosings0n) - Lead Tech and Project Initiator
+[Abraham Imani](https://www.linkedin.com/in/abraham-imani-bahati-998804318/) - AI/ML Engineer and Project Co-Initiator
 
 Project link:
 https://github.com/glosings0n/ZungumzaAI
