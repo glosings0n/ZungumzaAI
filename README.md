@@ -25,7 +25,7 @@ both the digital divide and learning loss.
 
 ## About the Project
 
-Protracted conflicts in Eastern Africa have caused large-scale
+Protracted conflicts in Eastern DRC have caused large-scale
 displacement. In many Internally Displaced Persons (IDP) camps,
 children have limited access to physical schools. At the same time,
 many EdTech systems and modern AI tools systematically exclude
